@@ -19,10 +19,10 @@
 
 #### 📈 Languages & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serlysetyani&count_private=true&show_icons=true&bg_color=ffffff" alt="devded" width="420"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serlysetyani&hide=&langs_count=8&layout=compact&bg_color=ffffff" alt="devded" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haji-b1nt4ng-v2 &count_private=true&show_icons=true&bg_color=ffffff" alt="devded" width="420"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haji-b1nt4ng-v2 &hide=&langs_count=8&layout=compact&bg_color=ffffff" alt="devded" height="165" />
 </p>
 
 
 [linkedin]: https://www.linkedin.com/mwlite/in/bintang-r-6b8077234
-[blog]: https://serlysetyani.github.io
+[blog]: https://Haji-B1nt4ng.github.io
