@@ -19,8 +19,8 @@
 
 #### 📈 Languages & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haji-b1nt4ng-v2 &count_private=true&show_icons=true&bg_color=ffffff" alt="devded" width="420"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haji-b1nt4ng-v2 &hide=&langs_count=8&layout=compact&bg_color=ffffff" alt="devded" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haji-b1nt4ng-v2&count_private=true&show_icons=true&bg_color=ffffff"alt="devded"width="420"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haji-b1nt4ng-v2&hide=&langs_count=8&layout=compact&bg_color=ffffff" alt="devded" height="165" />
 </p>
 
 
